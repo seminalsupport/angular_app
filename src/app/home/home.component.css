@@ -1,0 +1,11 @@
+.form-container {
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 30px 10px 10px 10px;
+    max-width: 100%;
+}
+
+h6{
+    margin: 30px 10px 10px 10px;
+}
